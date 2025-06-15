@@ -1,0 +1,6 @@
+node_modules/
+ethereum/deploy.js
+ethereum/factory.js
+campaign.js
+web3.js
+
